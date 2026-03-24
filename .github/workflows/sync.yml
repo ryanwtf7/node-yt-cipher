@@ -44,5 +44,5 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git add -A
             git commit -m "chore: sync with ejs"
-            git push origin main
           fi
+          git push origin main
