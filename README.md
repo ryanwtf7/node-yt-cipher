@@ -1,5 +1,5 @@
-> [!WARNING]
-> Do NOT forget to edit `.env`
+> [!NOTE]
+> Don't forget to edit `.env`
 
 ```sh
 git clone https://github.com/execaman/node-yt-cipher
